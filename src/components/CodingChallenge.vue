@@ -134,7 +134,7 @@ export default {
 
 <style scoped>
 .chart-container {
-  max-width: 600px;
+  max-width: 800px;
   margin: 20px auto;
   text-align: center;
 }
